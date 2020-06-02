@@ -1,0 +1,6 @@
+﻿User-agent: *
+Disallow: /opwarming/
+Disallow: /niveau-1/
+Disallow: /niveau-2/
+Disallow: /niveau-3/
+Disallow: /filmpjes/
